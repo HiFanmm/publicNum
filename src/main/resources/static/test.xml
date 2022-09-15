@@ -1,0 +1,25 @@
+<xml>
+<!--
+ToUserName	开发者微信号
+FromUserName	发送方帐号（一个OpenID）
+CreateTime	消息创建时间 （整型）
+MsgType	消息类型，文本为text
+Content	文本消息内容
+MsgId	消息id，64位整型
+MsgDataId	消息的数据ID（消息如果来自文章时才有）
+Idx	多图文时第几篇文章，从1开始（消息如果来自文章时才有）-->
+    <ToUserName><![CDATA[gh_25afdd19c394]]></ToUserName>
+    <FromUserName><![CDATA[odKdN5l2BdNPbGZhs62fwuogfx3o]]></FromUserName>
+    <CreateTime>1663244605</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[222]]></Content>
+    <MsgId>23811938079401214</MsgId>
+</xml>
+
+<xml><ToUserName><![CDATA[gh_25afdd19c394]]></ToUserName>
+<FromUserName><![CDATA[odKdN5l2BdNPbGZhs62fwuogfx3o]]></FromUserName>
+<CreateTime>1663244701</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[333]]></Content>
+<MsgId>23811941211608013</MsgId>
+</xml>
